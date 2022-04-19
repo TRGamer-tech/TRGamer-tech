@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, Webdevelopement and Video & Photoediting
 - 🌱 I’m currently learning System engineer
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: 
+- 📫 How I learn stuff
   1. Explain something
   2. Explain it again
   3. Maybe explain it once more
