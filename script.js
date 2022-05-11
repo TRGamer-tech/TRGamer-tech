@@ -1,5 +1,5 @@
 $(document).ready(function(){
 
-    $("body").append('<div class="content">Appended DIV</div>');  
+    $("body").append('<div class="jscheck">REMOTE JS IS WORKING, WHOOOOO</div>');  
 
 });
