@@ -1,9 +1,4 @@
-@import url('https://fonts.googleapis.com/css2family=Source+Code+&family=DM+Sans&display=swap');
-
-* {
-    font-family: 'DM Sans', sans-serif;
-    /*font-family: 'Source Code Pro', monospace;*/
-}
+@import url('https://fonts.googleapis.com/css2family=Source+Code+Pro&display=swap');
 
 body {
     background-color: rgb(27, 27, 27);
