@@ -6,6 +6,6 @@ body {
 }
 
 .jscheck {
-    font-family: 'Source Code Pro', monospace!important;
+    font-family: Consolas, monospace!important;
     color: rgb(51, 255, 0);
 }
