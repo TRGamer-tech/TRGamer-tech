@@ -1,2 +1,1 @@
-var div = $("<div>HAHA TEST</div>");
-$("#box").append(div);
+$("body").append('<div class="content">Appended DIV</div>'); 
