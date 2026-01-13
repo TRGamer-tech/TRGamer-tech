@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @TRGamer-tech
-- 👀 I’m interested in Gaming, Webdevelopement and Video & Photoediting
-- 🌱 I’m currently learning System engineer
-- 💞️ I’m looking to collaborate on Github
-- 📫 How I learn stuff
-  1. Explain something
-  2. Explain it again
-  3. Maybe explain it once more
-  4. I think I finally got it!✨
+# 👾 Hi, I’m @TRGamer-tech
+
+## "I read logs for fun. (Not really.)"
+
+I am interested in Web Development and securing systems (or breaking them legally). <br>
+Currently, I am surviving my apprenticeship as a **Cyber Security Specialist**.
+
+### 💥 Current Status
+* 👀 **Focus:** Web Development and figuring out why the firewall is blocking me.
+* 🌱 **Role:** Apprentice Cyber Security Specialist (Professional Paranoid).
+* 💞️ **Collab:** I am open to collaborating on GitHub, provided the code is not a security nightmare and you tollerate my commit messages.
+
+### 🧠 My Learning Algorithm
+I usually skip the documentation until it breaks. My process looks like this:
+
+```javascript
+let understood = false;
+
+while (!understood) {
+    console.log("Explain something.");
+    console.log("Explain it again.");
+    console.log("Maybe explain it once more...");
+    
+    if (sparkOfGenius) {
+        console.log("I think I finally got it! ✨");
+        understood = true;
+    } else {
+        cryInCorner();
+    }
+}
+```
+### 🛠 Tools I use
+* Web: HTML, CSS, JavaScript
+* Security: A lot of caffeine
 
 <!---
 TRGamer-tech/TRGamer-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
