@@ -1,4 +1,4 @@
-# 👾 Hi, I’m @TRGamer-tech
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&weight=900&size=30&pause=1000&color=F76B1D&width=435&lines=Hi%2C+I%E2%80%99m+%40TRGamer-tech)](https://git.io/typing-svg)
 
 ## "I read logs for fun. (Not really.)"
 
@@ -32,6 +32,9 @@ while (!understood) {
 ### 🛠 Tools I use
 * Web: HTML, CSS, JavaScript
 * Security: A lot of caffeine
+
+### Interests
+[![My Intrests](https://skillicons.dev/icons?i=html,css,js,arch,linux,netlify,ps,vscode,windows,)](https://skillicons.dev)
 
 <!---
 TRGamer-tech/TRGamer-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
