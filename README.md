@@ -36,6 +36,14 @@ while (!understood) {
 ### Interests
 [![My Intrests](https://skillicons.dev/icons?i=html,css,js,arch,linux,netlify,ps,vscode,windows,)](https://skillicons.dev)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TRGamer-Tech/TRGamer-Tech/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <!---
 TRGamer-tech/TRGamer-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
