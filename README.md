@@ -45,7 +45,8 @@ while (!understood) {
 </div>
 
 ### Donate on Buy me a coffee
-If you like what I do, I would really appreciate a (optional!) donation: [https://buymeacoffee.com/t.r.g](https://buymeacoffee.com/t.r.g)
+If you like what I do, I would really appreciate a (optional!) donation:
+<br><a href="https://buymeacoffee.com/t.r.g"><img src="/Assets/yellow.png" alt="Buy Me a Coffee Donation Link" width="auto" height="75"></a>
 
 <!---
 TRGamer-tech/TRGamer-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
